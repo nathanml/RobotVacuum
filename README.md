@@ -1,4 +1,4 @@
-## CS131 Assignment 01 - Behavior Trees
+## Robot Vacuum
 
 #### Instructions to run and test
 
