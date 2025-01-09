@@ -114,3 +114,8 @@ States are represented by print statements.
 #### Sensors
 The environment includes a battery sensor, a dusty spot sensor, and the user interface that
 determines spot or general cleaning.
+
+### What I learned
+1. Behavior trees
+2. Structure of rational agents
+
